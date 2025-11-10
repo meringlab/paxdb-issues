@@ -1,0 +1,10 @@
+PX ID: PXD000000
+NCBI Taxon ID: 32002
+Scientific name: Achromobacter denitrificans
+Fasta Repo: STRING
+Organ / Tissue: UBERON_0007023: whole organism
+Sample Information: _CTRL_, control, 4    
+                    _SULFUR_, sulfur_treatment, 4    
+                    Enzyme: trypsin    
+                    Acquisition: DDA
+Contact: qingyao.huang@uzh.ch
