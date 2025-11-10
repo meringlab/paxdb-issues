@@ -24,6 +24,8 @@ The above example annoates an experiment, consisting of 8 samples, e.g.
 The group distinguishing file name snippets are \_CTRL\_ and \_SULFUR\_
 And the experiment uses tryptic digestion and DDA acquisition mode.
 
-You can find [data_request_template.txt](data request template) but it is recommended to submit the data request issue through the [https://pax-db.org/request](PaxDb web interface).
+You can find [data request template](data_request_template.txt) but it is recommended to submit the data request issue through the [PaxDb web interface](https://pax-db.org/request).
 
 ## report of data error or request update on genome annotation / name
+- If you have more information of an experiment, you can suggest an update of the metadata or re-run with better / correct parameters.
+- If you are expert studying a species and we use a not widely used identifiers, you can point us to the better sources or provide mappings.
